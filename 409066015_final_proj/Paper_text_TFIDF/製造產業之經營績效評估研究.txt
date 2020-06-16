@@ -1,0 +1,6 @@
+製造產業之經營績效評估研究
+A Study on Managerial Performance Evaluation of Manufacturers
+製造產業、績效評估、轉換函數
+
+本論文的目的是對製造產業進行經營績效評估。研究資料為九十三年的年度財務報表資料，研究樣本為橡膠產業之上市8家公司，本研究共選取38個財務比率指標，將所選取指標變數，依照公司實際營運狀況與比率分析選取之財務項目性質來區分，主要可分為財務層面與經營層面的兩個層面，八大構面。將各樣本相對應之財務比率指標，透過所選取之轉換函數，將數值轉化成百分制，最後乘上兩大層面所對應的權數，加總起來，可得到各公司的經營績效分數。以整體經營績效而言，各公司的績效平均分數排名，依序為建大、台橡、中橡、泰豐、南帝、南港、華豐。
+The purpose of this study is to evaluate the managerial performance of manufacturers. The research period is the annual financial form in 2004, and the samplings include 8 listed companies of the rubber industry. The study selects 38 financial ratio indexes. Then we sort the index parameters according to company's real operation conditions and financial ratio indexes’ character. It has two parts that one is the financial and the other is the operation. These two parts include 8 components. We use appropriate functions to transform the finacial ratio index into hundred-mark system score. Finally, we calculate the weighted scores of these companies in rubber industry.The empirical research shows the managerial performance of our sample companies, we sort the samples from high to low Kenda Rubber, TSRC, Chena Synthetic Rubber, Federal Rubber, Nantex Industry, Nankang Rubber, Hwa Fong Rubber.

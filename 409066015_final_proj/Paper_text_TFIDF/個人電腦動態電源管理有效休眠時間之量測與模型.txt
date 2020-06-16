@@ -1,0 +1,6 @@
+個人電腦動態電源管理有效休眠時間之量測與模型
+Modeling and Measurement of the Effective Sleep Time Interval for Dynamic Power Managements of a PC
+動態電源管理、轉態模型、轉態代價
+
+低功率消耗在個人電腦的設計上是一個重要的考量因素，在不降低性能的前提下；動態電源管理對於節省耗電量是一個相當有用的方法，但是個人電腦進入休眠狀態；或是從休眠中回復的過程都需要消耗額外能量，以至於電源狀態轉換太過頻繁，或是休眠的時間不夠久，會使得動態電源管理不但無法節能，反而更加耗能。在本論文中我們所討論的重點在於轉態的過程中所需要消耗的能源代價，需要多久的休眠時間來彌補。我們將轉態的能量代價等效成一個數學模型，根據我們所提出的模型，可以正確的預估出個人電腦系統在轉態的過程中所需要消耗的能量代價；需要多久的休眠時間來彌補，此轉態模型；可以正確的計算出彌補轉態代價所需要的休眠時間，可以讓動態電源管理更加有效。
+Low power consumption is an important factor in designing PC systems. Dynamic power management (DPM) can be an effective approach to reduce power consumption without significantly degrading performance. When a system shuts down or wakes up, it requires extra power consumption. In this paper, we focus on the transition penalty of the power consumption of typical PCs. We built a dynamic power transition model for the transition penalty. According to our model, the estimation of the transition penalty of a PC system can result in more efficient DPM policies.

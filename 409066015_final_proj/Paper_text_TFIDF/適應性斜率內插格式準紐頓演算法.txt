@@ -1,0 +1,5 @@
+適應性斜率內插格式準紐頓演算法
+A Gradient-Adaptive Lattice Interpolation-Based Quasi-Newton Algorithm
+準紐頓演算法、雙向適應性斜率格式演算法、遞迴式最小平方和演算法
+本篇論文提出一個準紐頓演算法(GAL-QN algorithm)，它是基於估計Kalman gain vector,而Kalman gain vector是由直接計算雙向適應性斜率格式演算法（gradient-adaptive lattice (GAL) interpolation algorithm）求得。雖然這個演算法，在收斂速度上比實際的遞迴式最小平方和演算法(RLS algorithm)稍差，但是比標準化最小均方和演算法(NLMS algorithm)快了很多，而且運算複雜度為 。更重要的是從電腦模擬結果顯示在有限精確度環境下這個演算法比實際的RLS演算法及快速RLS演算法更強健。
+This thesis develops a Quasi-Newton (QN) algorithm based on an estimated Kalman gain vector computed directly from a gradient-adaptive lattice (GAL) interpolation algorithm. Though the convergence rate of the proposed GAL-QN algorithm is inferior to that of the exact recursive least-squares (RLS) algorithm, it is much faster than that of the normalized least-mean-square (NLMS) algorithm and the computations required are only   per iteration for an   problem. Most importantly, the GAL-QN algorithm appears to be numerically more robust than the exact RLS algorithm and fast RLS algorithms in a limited precision environment, which makes it attractive from a practical perspective.

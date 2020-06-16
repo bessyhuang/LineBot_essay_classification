@@ -1,0 +1,5 @@
+函數體上連分數的性質
+Characterization of Continued Fractions in Function Fields
+連分數
+在這篇論文中，我們要敘述<img src=〝/theabs/image id=001&account=094FJU00479014〞>的表示法，其中我們假設r和s在Fq[T]中的首項係數是1，rs的次數是偶數且r的次數大於s的次數，等式<img src=〝/theabs/image?id=004&account=094FJU00479014〞>有解(X, Y)在Fq[T]中，並討論<img src=〝/theabs/image?id=003&account=094FJU00479014〞>與多項式的二次剩餘記號。
+In the master thesis, we are interested to relate the expansion of<img src=〝/theabs/image?id=001&account=094FJU00479014〞> under the assumption that for monic r and s in Fq[T] with degree of rs being even and deg r > deg s <img src=〝/theabs/image id=002&account=094FJU00479014〞> 1, the equation <img src=〝/theabs/image?id=004&account=094FJU00479014〞> has a solution (X, Y) in Fq[T], to that of <img src=〝/theabs/image?id=003&account=094FJU00479014〞>, and to the polynomial quadratic residue symbols.

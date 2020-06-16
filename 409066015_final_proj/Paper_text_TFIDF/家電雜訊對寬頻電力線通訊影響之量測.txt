@@ -1,0 +1,6 @@
+家電雜訊對寬頻電力線通訊影響之量測
+Measurement of Noise on Power Line Communication Caused by Household Electrical Appliances
+電力線通訊、電磁干擾
+
+本論文主要探討有關一般家電對於電力線通訊系統所造成的影響。配電線迴路上負載改變所產生的影響、負載開啟後所產生的干擾，以及透過人為製造出的雜訊影響此系統。經由網路管理系統擷取數據，可得知其對於噪音訊號比、通道頻率響應、上傳/下載的接收功率，以及上傳/下載速度的影響。透過GPIB和電力線網路做及時監控，將頻譜上的資料記錄下來。透過頻譜儀所量測的數據，再與網路管理資料兩者做比對。目前電力線傳輸所遇到的瓶頸在於克服電力線上高頻的高雜訊、高衰減以及電磁相容等問題。再者，已使用的頻段，像是火腿族、飛航與船隻所使用的頻段，要如何與電力線通訊相配合而不會干擾到彼此。因此，目前世界各國正積極進行訂定對於電力線通訊系統，這項新興網路科技之相關規範。
+The description of the thesis is the influence of appliances and artificial noise on power line communication. The interference produced by the load on the power line, such as electromagnetic interference, impedance matching etc. The data was gotten from network management system. The noise effects on the signal noise ratio, channel frequency response, up down stream received power and up down stream speed.To compared the data from spectrum analyzer and network management system. The noise is measured by the spectrum analyzer trough the GPIB and power line broad band communication network. In conclusion, the most important thing is to overcome the high frequency noise and attenuation on the power line for the broad band communications. Finally, the most important thing is to set up the standard for power line communication.

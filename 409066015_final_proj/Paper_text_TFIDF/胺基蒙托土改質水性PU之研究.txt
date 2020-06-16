@@ -1,0 +1,5 @@
+胺基蒙托土改質水性PU之研究
+Organic-Inorganic Hybrid Composites Prepared by Ammonium Montmorillonite and Aqueous Polyurethane
+蒙托土、水性聚胺基甲酸酯
+本實驗為利用有機改質蒙托土為鏈延長劑之一部分，於水性PU合成反應時參與反應，使得交聯點(cross linking point)上含有一層狀蒙托土。而蒙托土含量對與PU之應力、伸長量、熱穩定性、玻璃轉化溫度和吸水性之影響以及蒙托土改質劑之官能基當量數是否造成分子量之變化，此外也將利用原位聚合法來製備複合材料，來與鏈延長反應法作比較，來探討不同製備法的差異性。研究結果顯示出，鏈延長反應法中triamine蒙托土的添加量在0.5phr以下時，複合材料的熱性質，熱裂解溫度提高了約30℃。機械性值都會提昇，尤其是伸長量提高約2倍。且分子量不會造成太大的影響。
+This research reports the synthesis and characterization of an aqueous polyurethane composites consisting of reactive montmorillonite(MMT). Two kinds of clay modifiers, one is triamine and the other is diamine. We use two methods to prepare the PU/MMT composites, i.e., chain-extended (method Ⅰ)and in-site polymerization (method Ⅱ).Based on the results obtained from the thermal and mechanical testing, and molecular weight etc., we observe that by employing the first method with the triamine modifier can produce the organic/inorganic composite with superior physical properties.

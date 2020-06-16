@@ -1,0 +1,5 @@
+以end-Hall型離子源輔助蒸鍍硒化鋅薄膜之光學測量研究
+The optical properties of ZnSe thin film deposited by thermal evaporation with end-Hall ion-beam assistance
+硒化鋅、螢光效應、消光係數、離子源輔助、堆積密度
+ZnSe薄膜為一高折射率材料，且應用在多層膜方面，加入離子源輔助鍍膜後，研究離子源對光學特性所造成的影響。在未加熱的玻璃基板上，蒸鍍ZnSe薄膜，並加以不同的離子電壓輔助鍍膜，探討以不同離子電壓輔助鍍膜後的折射率、消光係數、堆積密度、薄膜穿透率、螢光效應等等。而離子源所使用的能量分別為20 V，30 V，40 V，藉由這些參數的控制，去找出擁有最好光學特性薄膜的離子源參數。
+Zinc Selenide thin film is a high refractive index material therefore it is used in the application of multilayer coatings. The influence on the optical properties of Zinc Selenide thin films fabricated by ion-beam assisted deposition (IAD) was investigated in this study.  Zinc Selenide thin films were deposited on unheated glass substrates by means of thermal evaporation with different ion-beam voltage, V. The refractive index, extinction coefficient, packing density, transmittance, and photoluminescence were measured and correlated closely to the applied ion-beam energies.  Through IAD technique, it was demonstrated that the optical properties can be tailored by using different ion-beam voltages 20 V, 30 V, and 40 V, respectively.

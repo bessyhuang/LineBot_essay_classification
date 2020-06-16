@@ -1,0 +1,5 @@
+有關拉普拉斯變換與積分餘弦函數之逼近理論的研究
+On Approximations of Laplace Transforms and Integrated Cosine Functions
+積分餘弦函數、拉普拉斯
+在此篇論文裡，應用 Xiao 與 Liang 兩位大陸學者關於拉普拉斯變換之逼近理論的結果，去建立 Banach 空間裡積分餘弦函數之逼近理論。
+In this paper we apply the results of Xiao and Liang concerning approximation of Laplace transforms to establish some new approximation theorems for  times integrated cosine functions on a Banach space.

@@ -1,0 +1,5 @@
+應用文化演算法於多代理人系統之共同演化
+Apply Cultural Algorithm to Co-Evolution of Multi-Agent System
+3APL代理人、共同演化、文化演算法、追蹤一逃避遊戲
+在這篇論文中，我們提出了一個多代理人文化共同演化模型的架構；在這個架構中，我們將文化演算法應用到以3APL語言為基礎的多代理人平台上進行共同演化。我們的目的是為了發展出一共同演化的代理人群組模型，這個模型包括兩個特質， 增進代理人或代理人群組的能力，增進代理人之間的合作，藉由可共同演化的文化演算法模型。其所應用到的問題領域為一追蹤逃避的遊戲，在這個遊戲中包含三個群組：追蹤者，逃避者以及障礙物。實驗的結果顯示出，將文化演算法應用到同時合作或競爭的共同演化程序中，其結果比起只應用到單一合作或競爭的方法有著更好的效能。
+In this paper, we proposed a framework called Cultural Coevolutionary Multi-Agent Model (CCMAM) which applies cultural algorithm to the coevolutionary of 3APL-based Multi-Agents platform. Our purpose is to develop a coevolvable agent group model which includes two features; to improve the capability of agent or agent group, to improve the cooperation between agents, via coevolvable cultural algorithm model. The application domain is a pursuit-evasion game includes three groups of teams pursuers, evaders and obstacles. Result indicate that the cultural algorithm applied within both competitive and cooperative coevolution process at the same time yields ascendant performance comparative to apply only either competitive or cooperative approach.

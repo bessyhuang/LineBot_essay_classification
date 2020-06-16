@@ -1,0 +1,6 @@
+教育型態與所得不均度
+The Pattern of Education and Income Inequality
+教育、人力資本、所得不均度
+
+本文針對台灣三種教育類型（公立學校、私立學校、補習班）對於所得水準以及所得不均度的影響作一研究，並以一簡單的兩期模型來求解父母對孩子的最適教育投資決策。不同的教育型態對於提升所得水準的程度便有所不同，對於一個比較富有的家庭，會傾向給孩子就讀品質較好的私立學校，而一個比較貧窮的家庭，只能給孩子就讀品質相對較差的公立學校，在此假設私立學校的品質優於公立學校，因此就讀於私立學校孩子的所得水準便會高於就讀公立學校的孩子，而社會上所得的不均也由此產生。最後，我們以數值模擬分析的方法來探討一些參數的變動是如何的影響所得不均度。
+The main purpose of this paper is to introduce three patterns of education adopted in Taiwan, that is, “public school”, “private school”, and “cram school”.  We use a two-period overlapping-generation model to analyze how an altruistic parent decides to invest his children via a different pattern of education.  Assume that the private education can provide a higher quality than the public education and the price of private school is higher than that of public school.  A rich parent tends to choose the private and/or supplementary educations in order to increase his children’s earning power; however, a poor parent only chooses the public education.  Therefore, a parent’s income level is positively correlated to his children’s income level.  Finally, we provide a numerical simulation to show the relationships between some parameters (e.g. tax rate, market luck, the relative quality of private school to public school, and the prices of private and cram schools) and social income inequality.

@@ -1,0 +1,5 @@
+次線性泛函之平滑性與嚴格凸性的Asplund平均化
+Asplund averaging of smoothness and rotundity properties of sublinear functionals
+次線性泛函、平滑性、嚴格凸性
+在本論文中，我們所探討的部分是有關於次線性泛函平滑性與嚴格凸性的Asplund平均化；舉例來說，定義在所給定Bananch 空間裡具備連續有界的次線性泛函所形成之度量空間，若存在一集合是由所有次線性泛函滿足其對偶具備局部均勻嚴格凸性所形成，該集合若不為空集，就會是在該度量空間裡的一個剩餘集，除此之外，我們也研究運用具備平滑性的次線性泛函與弱緊緻凸性集合所形成最遠點之集合可以成為弱緊緻性集合的閉凸包集的特性。
+In this thesis, we discuss Asplund averaging of smoothness and rotundity properties of sublinear functionals, and obtain, e.g., that the set of all sublinear functionals whose duals are locally uniformly rotund is either empty or residual in the metric space of continuous and bounded sublinear functionals on a given Banach space. Besides, we also study that a w-compact convex set is the closed convex hull of the farthest points which are constructed by a Frechet differentiable bounded sublinear functional and the w-compact convex set.

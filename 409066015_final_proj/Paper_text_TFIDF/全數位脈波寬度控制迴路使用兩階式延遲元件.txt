@@ -1,0 +1,6 @@
+全數位脈波寬度控制迴路使用兩階式延遲元件
+All Digital Pulsewidth Control Loop Using Two-Step Delay Element
+延遲鎖相迴路、延遲元件、脈波寬度
+
+在這篇論文提出，具有快速調變的全數位脈波寬度控制回路，同時有非常高的解析度。在電路鎖定時可以校正輸入訊號的脈波寬度，快速產生目標的輸出脈波寬度，其中延遲線使用的延遲元件，為本研究所提出之差動兩階式延遲元件，在先前數位控制之延遲元件中，在相似的延遲曲線設計下，有較小面積且大範圍的延遲時間的控制的優點，所以提升全數位脈波寬度控制回路，輸入頻率的範圍。在所提出的全數位脈波寬度控制回路，輸入與輸出訊號脈波寬度的校正，具有大範圍的調變；經由HSPICE模擬驗證，證實在輸入與輸出之工作週期可達0.78%~99.2%。比起先前的技術，本論文架構對於輸入和輸出脈波寬度比例有較大範圍，可適應更廣的應用。
+This work presents a high-speed modulated all digital pulsewidth control loop with very high resolution. The system performs a fast correction to the output pulsewidth in the locked state. A differential two-step delay element is proposed with much smaller area compared to the conventional designs in the same delay range. This proposed structure has wider correction ranges of input duty cycle and delay range. An ADPWCL with such characteristics is more easily to cooperate with a delay locked loop because the locked phase will not be affected by the operation of duty-cycle correction. The overall simulation is done with TSMC 0.18-μm CMOS technology, the acceptable duty-cycle of the input and output duty ranges fall from 0.78% to 99.2% with 0.78% as the corresponding steps of 68-MHz.

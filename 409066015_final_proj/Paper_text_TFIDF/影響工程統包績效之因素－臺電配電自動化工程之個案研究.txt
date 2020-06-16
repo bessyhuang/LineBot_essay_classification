@@ -1,0 +1,10 @@
+影響工程統包績效之因素－臺電配電自動化工程之個案研究
+Factors Affecting The Performance of Turnkey Engineering–A Case Study of Taipower Distribution Automation Engineering
+
+績效因素
+工程統包
+配合工程
+界面整合
+
+實施統包採購策略乃是公、民營機構現在及未來採購趨勢，一般採用統包採購策略主要係將諸多異質性工作結合同一採購契約中，以期提升採購效率、縮短工期及有效整合施工介面，由於統包工程的經營型態與特性使然，使得影響績效因素變的錯綜複雜，無法明確歸納為何類因素所造成的缺失。本研究就是要探討影響工程統包績效之因素與工程統包績效之衡量，首先透過文獻探討及專家訪談，加以整合並篩選出影響因素分別為統包商因素、業主因素及業主與統包商關係因素，並以效率、成本、品質為衡量工程統包績效的指標；然後針對臺電公司六個分屬北、中、南部的區處進行個案研究，以瞭解電業的工程統包及管理績效，最後發展出相關命題，作為電業在建置配電自動化系統時之參考。以下是相關命題：一、  業主對於工程決標簽約前作業時間的確實掌握，對統包績效有正面的幫助。二、  分包商的施工能力與整合影響工程執行績效。三、  業主配合工程進度（如管線通路與自動化開關裝設）會影響統包商施工進程。四、  設立專案小組負責執行工程統包之界面整合對統包績效有實質的助益。五、  有經驗的業主與統包商對工程統包執行績效有正面的幫助。
+The turnkey delivery method had been adopted in many public and private sectors gradually for promoting the efficiency, shortening the delivery time and easy the interface management when conducting turnkey engineering purchasing, the strategy activities on it have become very popular for nowadays and in the future.  There are three categories of major factors on it, which are design-builder, owner and the relationship between the two partner. The purpose of this study is to find out what are performance factors of turnkey engineering. The relevant influencing factors are chosen from literature reviews and interviews with experts. The case study of six Taiwan Power Company branches was conducted to understand the electric company’s turnkey engineering and performance. The findings of the study include the following1. There is substantial impact on performance of turnkey engineering that the owner   control the procurement process .2. Vendor ability and integrating them will promote the performance of turnkey engineering.3. The owner’s coordinating engineering（i.e installing pipeline and power switch） is critical performance factor for turnkey engineering4. It is really helpful for performance to set up a project team to integrate the interfaces   of turnkey engineering.5. In order to achieve the goal of good performance, the experiences of owner and design-builder are very important.

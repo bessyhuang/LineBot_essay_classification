@@ -1,0 +1,5 @@
+保單貼現證券化評價與風險分析
+Viatical Settlements Securitization, Pricing, and Risk Analysis
+
+保單貼現,保單貼現證券化,生命預估期風險,最適權益組比例
+This paper analyzes and studies the key factors to influence the securitization of viatical settlement (VSS).  To reduce risks, a viatical company can pack the insurance policies into a pool and sells it by tranches through securitization.  Except the legal factors, the key points to influence whether VSS can work or not is how to reasonably evaluate VSS and how to quantify the risks of VSS.  In this research, we establish pricing model for VSS and study the relationship between the risks life expectancy and the stability of VSS cash flow by numerical analysis.The credit enhancement method of this study is to setting equity class (residual class).  Totally one equity class and five traches with term to maturity of 1~5 years are classified and valued through our valuation process.   By setting the optimal allocation of equity proportion with simulation, we can allocate and value the five traches for securitization.  The study shows that by only using adequate equity proportion for internal credit enhancement the VSS can be feasible for investment.

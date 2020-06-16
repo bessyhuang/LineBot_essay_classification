@@ -1,0 +1,10 @@
+葉酸調節肝臟粒線體呼吸酵素複體IV功能性及其機制探討
+Molecular mechanisms of folate in the regulation of mitochondrial complex IV activity
+
+葉酸
+呼吸酵素複體IV
+氧化性鹼基突變
+大片段斷損
+基因表現
+
+粒線體呼吸酵素複體IV (Cytochrome c oxidase；COX)是電子傳遞最終催化中心，是由許多次單元所構成，調節粒線體膜電位及細胞程式凋亡，並與老化及粒線體疾病等氧化壓力相關。葉酸缺乏導致氧化壓力是否直接影響COX活性及其調節機制目前未明。本研究以細胞培養及動物模式，探討葉酸營養對大鼠肝臟粒線體氧化壓力、COX活性及其調節機制。將大鼠肝癌細胞株( H-4-II-E )培養於葉酸缺乏培養液，以流式細胞儀分析顯示胞內活性氧物種顯著升高，COX活性降低。補充葉酸降低胞內氧化壓力及回復COX活性。投予Wistar大鼠葉酸缺乏( 0 mg/kg diet)飲食，收集肝臟粒線體評估氧化壓力，粒線體麩胱苷肽過氧化酶顯著低於對照組。本研究進一步探討葉酸對COX活性之調節機制，葉酸缺乏是否造成COX基因氧化性鹼基突變。主導COX催化功能性的三個次單元COX I，COX II及COX III是由粒線體DNA轉錄，基因定序結果顯示葉酸缺乏並無在此三個次單元造成T→C或G→A氧化性鹼基突變。粒線體DNA大片段斷損與氧化壓力有關，其中COX III基因座落此斷損中，斷損比例會影響COX III基因含量。利用即時定量聚合酶連鎖反應發現葉酸在氧化壓力下不影響粒線體DNA斷損程度，推測COX活性可能不受大片段斷損的影響。利用即時聚合酶連鎖反應SYBR Green I螢光標定方式偵測COX次單元基因表現，葉酸缺乏向上調節COX III、COX VI、COX V、cytochrome c與粒線體DNA複製因子NRF-1 ( nuclear respiratory factor 1 )、mtTFA ( mitochondria transcription factor )、mtSSB ( mitochondria DNA binding protein )、Polγ( DNA polymeraseγ)等基因表現，但粒線體呼吸酵素複體次單元COX IV蛋白質則不受影響。綜合上述，葉酸降低COX活性的機制，不在調節氧化性鹼基突變、DNA大片段斷損、基因及蛋白質表達，顯示可能是由葉酸缺乏導致氧化壓力直接影響COX酵素催化功能性。

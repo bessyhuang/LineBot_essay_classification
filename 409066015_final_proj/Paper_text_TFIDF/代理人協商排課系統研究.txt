@@ -1,0 +1,6 @@
+代理人協商排課系統研究
+The study of automation negotiation of agent for courses scheduling system
+代理人、排程、協商
+
+所有的排程問題，雖然他們的限制條件不同，所有的資源也不相同。但是，他們的共同特性就是在有限的資源與限制條件之下，找出最佳化的配置方案。在過去相關的文獻研究中，已經有成功的運用多代理人協商的方法來解決排程問題。在本論文的研究中，將利用多代理人協商溝通方法應用至排課問題，將教師的排課過程，以多代理人的協商完成。針對教師所開的課程及教師喜好，在有限的資源及課程限制式下，找出所有代理人滿意度最佳的提案。
+All scheduling problems have multiple limitations and different resources. They have the same properties; the optimal solution emerged under limited resources and restrictions. In related researches, the scheduling problems have been successfully solved by multi-agent negotiation. In this thesis, multi-agent negotiation applied to the scheduling problem and focus on teacher's schedules problems. It gives the optimal solution proposal that will satisfy all terms involved, according to the teacher's schedule and under limited resources.

@@ -1,0 +1,5 @@
+頭部點頭識別
+Head Nod Recognition
+識別、頭部、影像、方法
+本論文說明一個自動偵測和識別人類頭部點頭行為的系統，在簡單的背景下可用Web Camera和DV自由的點頭。頭部影像擷取速率由2～30 fps，論文提出一個新的即時識別點頭的方法，這個系統平均成功率為90％～99%，在這裡提出點頭識別方法的設計與實作，並且展示初步實驗的結果。
+In this paper we describe a system that automatically detects and recognizes human head gestures such as nodding in simple background conditions using a Web Camera and DV under uncontrolled conditions. The images of the head, captured at 2~30 frames per second. This paper presents a novel approach to recognize the nod in the run time environment. In the proposed system, the system achieves an average success rate of 90%~99%. The design and implementation of the Head-Nodding method are presented. Preliminary experimental results are also presented.

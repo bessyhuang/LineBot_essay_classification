@@ -1,0 +1,6 @@
+電力線通訊系統之串音干擾與傳輸通道模型
+The Crosstalk Interference and Transmission Channel Model for Power Line Communication System
+電力線通訊系統、電容式耦合器、電感式耦合器、串音
+
+電力線通訊系統是以電力線網路作為傳輸媒介的一種通訊技術，利用電容式耦合器或是電感式耦合器，將調變信號耦合至電力線網路上，以達到傳遞訊息的一種技術，本論文即研究電力線通訊耦合器之耦合效益，建立其耦合模型。除此之外，探討電力線通訊技術層面及應用層面，以輔仁大學聖言樓實際環境架設之電力線通訊系統，擷取相關資料來作分析，並設法改善其通訊品質，最後推導電力線之特性參數，模擬一電力線通訊網路之頻率響應，了解其傳輸通道特性，由於電力線通訊操作於高頻，其電容及電感耦合效應，所造成的串音干擾，可能經由電力線路對其它設備造成危害，因此我們藉由一些模擬實驗，驗證電力線上串音干擾的影響。
+Power line communication is a technology which used the network of power line for the transmitting medium. It uses capacitive coupler unit or inductive coupler unit that couples the modulated signals to power line network for transmitting the data and messages. The paper describes the efficient of the coupler which used to power line communication and the model of coupler is established. In addition to, the power line communication system installed in the actual environment of Fu Jen Catholic University and the correlative of data are researched in detail. At last, by simulating a power line communication network, the frequency response is presented. Owning to the system works in the high frequency, the crosstalk may effect other appliance on the power line network. Consequently, some simulated experiments are designed for test and verified.

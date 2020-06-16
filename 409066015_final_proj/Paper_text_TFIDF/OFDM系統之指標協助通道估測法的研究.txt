@@ -1,0 +1,6 @@
+OFDM系統之指標協助通道估測法的研究
+Study on Pilot Assisted Channel Estimation in OFDM systems
+通道估測、OFDM、指標排列方式
+
+近年來由於數位訊號處理(DSP)及超大型積體電路(VLSI)技術的進步，加上人們對於高速率的資料傳輸系統需求提高，所以擁有高效能的OFDM系統已廣泛應用於高速率數位通訊技術。本文將探討以OFDM調變技術為基礎的通訊系統在無線環境中的性能，配合指標通道估測來做模擬與討論。指標的排列方式可排列在時間軸上或是頻率軸上，排列的方式必須依據通道的特性，在本文中將以不同的指標排列法用於不同的通道環境中做討論。
+In recent years, orthogonal frequency division multiplexing (OFDM) systems have been widely applied for high speed wireless communication systems because of the promising progress in digital signal processing (DSP) and VLSI technologies as well as the requirement of high data rate transmission systems. In this paper, the performances of OFDM communication systems by employing the pilot-based channel estimation are studied. The pilot patterns can be selected in time and/or frequency domains. The effects of pilot patterns on channel estimation and bit-error-rate (BER) in OFDM system are investigated. Computer simulations are given to demonstrate the effectiveness of the pilot-based channel estimators for OFDM systems.

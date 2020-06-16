@@ -1,0 +1,6 @@
+國內可轉換公司債交易策略之研究
+A Study of trading strategy on the Convertible Bonds
+可轉換公司債、交易策略
+
+本文研究主題以可轉換公司債交易策略研究為主軸，歸納出可轉債買進交易策略、可轉債債息標的交易策略、可轉債資產交換交易及可轉債套利四種投資方式，實際實務上的投資流程、風險控管，並舉出實務投資個案分析做細部分析，期望能提供一般投資人投資策略方法及方向。在可轉換公司債風險管理方面，投資債券最需要重視的本金信用風險，可藉由公司基本面分析企業公司的財務及債信狀況，發行公司的債信評等可參考中華信評或經濟新報TEJ之TCRI評等等級及公司治理相關指標評估，以期降低其信用風險。
+This study focuses on the strategies of trading convertible bonds and their derivatives.  Four types of investment strategies are being discussed; the buying of convertible bonds, the trading of the interest of convertible bonds, the convertible bond swaps, and the arbitrages on convertible bonds.  In order to provide bond investors with strategies and guidance on investing convertible bonds, the processes and the risk control are presented, some real cases are also discussed and analyzed in this study.Credit risk is one of the most important risk elements in risk management of trading convertible bonds and or their derivatives.  Investors should first analyze the credit risk of the bonds. Credit analysis encompasses examination of financial health, business strategies, credit ratings, etc. of corporate’s. Credit ratings and corporate management index can be obtained from Taiwan Rating.

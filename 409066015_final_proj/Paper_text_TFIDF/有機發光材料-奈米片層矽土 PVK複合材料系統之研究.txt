@@ -1,0 +1,5 @@
+有機發光材料-奈米片層矽土/PVK複合材料系統之研究
+The study of Organic Clay   Poly(9-vinylcarbazole) (PVK)  as an Organic Light-Emitting material
+蒙脫土
+韓國學者T.W.Lee 首先將蒙脫土與有機銨鹽進行改質處理並用於元件上，由於蒙脫土再改質時，必須先將有機胺鹽質子化形成銨鹽，對大部分的高分子有機光電元件中所使用的載體如PVK，卻會造成嚴重的紅位移，使其PL執會大幅下降，同時由文獻中亦顯示其所使用的奈米片層矽土合PPV相混後，有嚴重的沉降現象，以至於很難準確的計算出溶液中奈米黏土的含量，因而無法使用。    在本論文中，我們所使用的蒙脫土是屬於鈉型蒙脫土，因此合成了一系列不同取代基的咪唑改質劑，將鈉型蒙脫土改質為親油性蒙脫土。利用NMR來鑑定所合成之結構，以XRD來鑑定黏土之改質並製作成元件討論其光電特性。研究結果顯示，所合成之改質劑其PL光譜並未產生紅位移，而具有拉電子基之改質劑有較佳的亮度，其起始電壓並不會因為蒙脫土的添加而有所提高。
+n terms   switching the Na-motmorillonite to  hydrophobic motmorillonite. By using NMR to detect the  structure of the synthesis.Comes by XRD to detect the clay to change the nature and to creat the parts in order to discuss its photoelectricityⅡcharacteristic.According to the research result, the red shift does not occur in PL spectrum. The modified by imidazole with electron-withdrawing group reaches the better brightness and the turn on voltage does not rise while the motmorillonite is added.

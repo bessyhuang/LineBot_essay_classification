@@ -1,0 +1,6 @@
+運用代理人群體協調技術於專案工作指派之決策
+Apply Agents Group Coordination Mechanism for Decision Making of Project Assignment
+軟體專案規劃、智慧型代理人、DS/AHP、群體決策、證據理論
+
+軟體專案規劃需要指派工作任務給專案成員，必須考慮許多軟體專案參數與條件限制，其中隱含許多不確定性的群體決策議題。本論文利用智慧型代理人自動化協調工作分派，以DS/AHP群體決策技術，量化個人偏好產生群體偏好工作項目，透過協調策略解決衝突，以達成群體決策之工作分派。智慧代理人以使用者主觀信念為其目標任務，運用多代理人群體協調機制處理衝突並產生決策，提高使用者對工作分派的接受度。本研究中以軟體專案規劃為實例探討，並實作一個網路代理人群體協調決策系統。
+Software project planning need to appoint the tasks to special project members, must consider that a lot of software special project parameter and terms limited, among them imply a lot of uncertainty for group decision topics. This thesis utilizes intelligent agent's automation to coordinate the work to assign, with DS AHP group decision technology. Producing the group preference values by individual preference for the working project, solving the conflict through coordinating the tactics, assign for the work of reaching group decision. The intelligence agent regards user's subjective faith as its goal task, it deals with the conflict and produces decision to use agents to coordinate the mechanism, improve acceptance degree that users assigned to the work.

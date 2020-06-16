@@ -1,0 +1,12 @@
+廣義能量泛函之一階及二階變分
+First variation and second variation of generalized energy functionals
+
+
+條件
+泛函
+能量
+廣義
+論文
+
+在本論文中，我們探討兩種能量泛函的一階變分和二階變分作仔細的推導，並利用一階變分和二階變分的結果，說明在某些函數空間中，此能量泛函的minimizer必須滿足Euler equation的條件。
+In this paper，we discuss first variation and second variation of two kinds of energy fuctional，and we apply this method to give a necessary condition for minimizer of energy functional must satisfy the Euler equation.

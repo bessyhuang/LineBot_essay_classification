@@ -1,0 +1,5 @@
+以B-spline為基底的複數座標旋轉方法來研究鈹原子的光游離
+B-spline-based Complex-Rotation Method for the Photoionization of Be
+光游離、諧振態、Fano q 參數
+我們用以B-spline為基底的複數座標旋轉方法來計算鈹原子在Be+2s與Be+3s臨界值之間的基態光游離截面。我們所得到的諧振態參數，如諧振態的能量、寬度和Fano q 參數是直接計算出來的。我們的結果與其他理論值有很好的一致性。
+We have used a B-spline-based complex-rotation method to calculate the ground-state photoionization cross sections of Be between the Be+2s and Be+3s thresholds. The resonance parameters, such as resonance energies and widths, and the Fano q parameters, are calculated directly. Our results agree well with other theoretical data.

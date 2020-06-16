@@ -1,0 +1,6 @@
+泌尿系統感染症門診醫療資源之研究
+A study of medical resource among urinary-tract-infected outpatients
+泌尿系統感染症、自動互動檢視法、分類與迴歸樹分析法
+
+本研究目的在於探討泌尿系統感染症的門診醫療資源分配情形，以提供衛生主管機關做資源規劃與配置的參考。資料來源為全民健保資料庫系統抽樣檔的91年度門診處方及治療明細檔。研究範圍涵蓋病患特性、醫療院所特性及醫療資源等三個構面，過程中利用描述性統計、多維度列聯表、自動互動檢視法以及分類迴歸樹分析法進行資料分析。研究結果為案件分類、評鑑等級與疾病診斷數是影響門診單價的重要變數。西醫急診病患為門診單價最高者，有合併症的西醫慢性病病患為門診單價次高群。
+The purpose of this study was to explore the amount of medical resources spent among outpatients on urinary tract infection, so that they can provide information for health authorities to do resources planning. The study was based on the systematic sampling set of ambulatory care expenditures by visits in 2002 from National Health Research Institute. There are three dimensions in this research including the characteristics of patients, hospitals and medical resources. Those data had been analyzed by means of Descriptive Statistics, OLAP cubes, Chi-square Automatic Interaction Detection and Classification and Regression Tree.The result indicated that case classification, hospital accreditation and the number diagnosis diseases have an important impact on the medical resources. Besides, emergency department patients are the highest medical consumption and chronic disease with complication were the second high group.

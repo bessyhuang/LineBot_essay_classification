@@ -1,0 +1,5 @@
+貿易網絡與產業特性-工具機與鞋業的驗證
+Trade Network and Industry Characteristics  An Empirical Evidence of Machine Tool and Footwear
+群集分析、引力模型、工具機、鞋業
+
+本文利用各國雙邊貿易流量資料，對各國家進行群集分析法分群，得到工具機產業由單一區塊轉變為雙區塊並存的現象與鞋業始終存在兩個貿易關係較緊密的集團的結果。此結果進一步提供了貿易區塊現象存在的證據，而利用引力模型對區塊現象進行再驗證，亦得到貿易區塊現象存在的證據。

@@ -1,0 +1,5 @@
+選擇權上的脈衝
+On the Impulse of the Option Price
+歐式買權價格、Mellin transform、外力市場、數學式子、脈衝、Mellin transform
+本論文以Black-Scholes equation為基本模型，論文中先用基本的方法，探討在有外力的市場中，歐式買權價格的改變。並且在相同的情況下，再用Mellin transform當工具來探討比較，以突顯Mellin transform的方便性。進一步，更利用Mellin transform的方法探討常數外力，固定不變的外力等情況，透過數學式子試著說明外力對歐式買權價格的影響。這些的外力情形就像是路障干擾一樣，會導致歐式買權價格在某個時間點受到影響而改變。
+We take Black-Scholes equation as the basic model. In this paper, we use the fundamental method to study European calloption price in a non-ideal market. In the same situation, we also use Mellin transform as the study tool.Moreover, we use Mellin transform to study the equation of the European call option price with outside forces.With a mathematical explanation, the influences of the outer force on European option price are systematically solved.These outside forces are similar to bumper interruptions. They can induce the European call option price change at some time.

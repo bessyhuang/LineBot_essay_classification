@@ -1,0 +1,5 @@
+給高頻功率轉換器所用之多相位查表式數位脈波調整器
+A Multi-Phase DPWM Based on Fully Table Look-up for High-frequency Power Converter
+多相位、查表式、調整器、補償器、轉換器、功率
+本論文中，我們提出一個給高頻功率轉換器所用的利用查表法之多相位數位脈波調整器的新架構。這個調整器包含一個比較器、一個使用查表法及多相位數位脈波調整器的PID 數位補償器。在這所提出的查表法能夠增加高頻功率轉換器的反應時間。而提出的多相位數位脈波調整器在高頻功率轉換器使用時能夠減少功率的消耗。在這所提出的架構己有模擬及FPGA 板實作結果。
+In this thesis, we investigate a novel architecture of multi-phase digital pulse-width modulation (DPWM) power regulator based on fully table look-up approach for high-frequency switching converters. The regulator comprise a comparator, a PID compensator with look-up table and multi-phase DPWM. The look-up tables can increase the respond time of the high-frequency converter. The multi-phase DPWM can reduce the power consumption for high-frequency converter. The proposed architecture has been validated with simulation and implement results.
